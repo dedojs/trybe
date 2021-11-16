@@ -1,2 +1,3 @@
 Meu primeiro ou segundo repositorio Git, aqui na trybe! :)
 Fazendo alteraçoes no arquivo e refazendo o preocesso de add, commit e push pela 2 vez
+iniciando a 3 alteração do código, e refazendo os passoa, add, commit push
